@@ -1,1 +1,1 @@
-# Tkachenk Karina QA Automation
+# Tkachenko Karina QA Automation

@@ -94,9 +94,9 @@ public class FirstHomeWorkTkachenko {
         boolean sortB = true;
         Boolean purchase = sortA | sortB;
         System.out.println("Purchase is " +purchase);
+        //test comment
     }
 }
-
 
 
 
